@@ -1,0 +1,27 @@
+.container { 
+    margin:20px;
+    border:2px solid black;
+}
+
+.header{
+    color: black;
+    border-bottom: 1px solid black;
+
+}
+.oneway{
+    margin: 0;
+}   
+.details{
+    border: 1px solid black;
+    width: 340px;
+}
+
+.left-container{
+    float: left;
+}
+
+.right-container{ 
+    float: right;
+    border:1px solid black;
+    }
+    
